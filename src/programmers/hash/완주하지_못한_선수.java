@@ -1,4 +1,4 @@
-package src.programmers;
+package src.programmers.hash;
 
 import java.util.*;
 
