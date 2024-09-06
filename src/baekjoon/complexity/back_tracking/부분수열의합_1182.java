@@ -1,3 +1,10 @@
+/**
+ * Author    : 김현정
+ * Date      : 2024.09.05(목)
+ * Runtime   : 118 ms
+ * Memory    : 17612 KB
+ * Algorithm : [백준]백트래킹 - 1182 부분수열의합
+ */
 package src.baekjoon.complexity.back_tracking;
 
 import java.util.Scanner;
