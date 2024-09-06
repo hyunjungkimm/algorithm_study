@@ -5,7 +5,7 @@
  * Memory    :
  * Algorithm : [프로그래머스]LV2 - 42584 주식가격
  */
-package src.programmers.level1.stack;
+package src.programmers.stack_queue;
 
 import java.util.Arrays;
 import java.util.LinkedList;

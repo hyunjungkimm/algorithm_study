@@ -1,4 +1,4 @@
-package src.programmers.level1.stack;
+package src.programmers.stack_queue;
 
 import java.util.*;
 
