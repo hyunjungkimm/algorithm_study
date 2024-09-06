@@ -30,7 +30,6 @@ class 같은숫자는싫어_12906 {
         }
 
         return answer;
+//      return stack.stream().mapToInt(i -> i).toArray();
     }
-
-    // return s.stream().mapToInt(i -> (int)i).toArray();
 }
